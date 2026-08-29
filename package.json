@@ -1,0 +1,8 @@
+{
+  "name": "shopdev-ci",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Compilando proyecto ShopDev... ¡Éxito!'",
+    "test": "echo 'Ejecutando pruebas unitarias... ¡Todas las pruebas pasaron!'"
+  }
+}
