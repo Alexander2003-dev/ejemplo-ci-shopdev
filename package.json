@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "scripts": {
     "build": "echo 'Compilando proyecto ShopDev... ¡Éxito!'",
-    "test": "echo 'Ejecutando pruebas unitarias... ¡Todas las pruebas pasaron!'"
+    "test": "echo 'Error: La prueba de pagos fallo' && exit 1"
   }
 }
